@@ -18,3 +18,5 @@ project/plugins/project/
 .cache
 .lib/
 
+model/
+src/test/
